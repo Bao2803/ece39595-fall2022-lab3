@@ -20,3 +20,8 @@ c) Sprint Planning Meeting:
    - Discuss work complete and move incomplete work to backlog
    - Close sprint
 
+d) - Epic: Captures a large body of work that can be broken down into several smaller stories
+   - Story: A software system requirement that is expressed in a few short sentences.
+   - Bug: A bug is a problem which impairs or prevents the functions of a product.
+   - Task: A task represents work that needs to be done.
+
