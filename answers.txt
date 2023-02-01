@@ -1,0 +1,6 @@
+a) Pros: 
+   - Timely delivery: deliver product much sooner than non-Agile.
+   - Continuous improvement: product can be improve more often compare to non-Agile.
+   Cons: 
+   - Variable goals: the scope of the product constantly changes can make certain goals not receiving as much focus throughout the entire project. 
+   - Less predicability: the constant change of the product scope make it hard to predict profits before production begins. 
