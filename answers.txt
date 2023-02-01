@@ -3,4 +3,8 @@ a) Pros:
    - Continuous improvement: product can be improve more often compare to non-Agile.
    Cons: 
    - Variable goals: the scope of the product constantly changes can make certain goals not receiving as much focus throughout the entire project. 
-   - Less predicability: the constant change of the product scope make it hard to predict profits before production begins. 
+   - Less predicability: the constant change of the product scope make it hard to predict profits before production begins.
+
+b) - Scrum Master: All scrum related tasks – JIRA tooling, facilitating sprints and meetings, standups all done by the Scrum Master.
+   - Product Owner: Sets direction for the team, handles release management and stakeholder management.
+    
